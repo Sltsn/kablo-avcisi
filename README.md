@@ -21,3 +21,5 @@ derin öğrenme tabanlı sistem.
 
 ## Ekip
 Proje Yürütücüsü: Sıla Taşan · Akademik danışman desteğiyle, 2 kişilik ekip
+
+<img width="1200" height="1600" alt="poster_kablo avcisi" src="https://github.com/user-attachments/assets/42f769b3-89a1-4be3-90f2-12900573586c" />
